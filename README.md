@@ -2,6 +2,7 @@
 configuration d'un module starter Prestashop 1.7.6
 
 <h1>Configuration autoload</h1>
+<h2>module_test</h2>
 
 <ul>
   <li>Créer un fichier composer.json à la racine du dossier module</li>
