@@ -1,0 +1,11 @@
+{
+    "name": "module_test",
+    "description": "...",
+    "autoload": {
+    "psr-4": {
+        "ModuleTest\\Controller\\Admin\\": "controller/admin/"
+    }
+    },
+    "type": "prestashop-module"
+}
+

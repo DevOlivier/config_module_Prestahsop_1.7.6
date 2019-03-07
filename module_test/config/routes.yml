@@ -1,0 +1,8 @@
+product_routes:
+    path: module_test/demo
+    methods: [GET]
+    defaults:
+      _controller: 'ModuleTest\Controller\Admin\DemoController::demoAction'
+      
+      
+      
